@@ -112,7 +112,7 @@
 ## Connect with Me
 
 - 💻 GitHub: [github.com/madewarabhishek966529-wq](https://github.com/madewarabhishek966529-wq)
-- 💼 LinkedIn: [Add your LinkedIn profile link here]
+- 💼 LinkedIn: www.linkedin.com/in/abhishek-madewar-352aab265
 - 📧 Email: madewarabhishek966529@gmail.com
 
 <p align="center"><b>Keep Learning, Keep Building, Keep Growing 🚀</b></p>
