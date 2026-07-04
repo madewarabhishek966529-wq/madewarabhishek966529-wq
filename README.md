@@ -7,8 +7,8 @@
 
 ## About Me
 
-- 🎓 B.Tech CSE at Wainganga College of Engineering and Management, Nagpur (2022 – 2025)
-- 📚 Pursuing Diploma in Computer Engineering at Gramin Technical & Management Campus (2025 – 2028)
+- 🎓 Diploma in Computer Engineering at Gramin Technical & Management Campus (2022 – 2025)
+- 📚 Pursuing B.Tech CSE at Wainganga College of Engineering and Management, Nagpur (2025 – 2028)
 - 💼 Gained hands-on Flutter development experience at Dream Webies Pvt. Ltd.
 - 🤖 Passionate about building AI-integrated mobile and web applications
 - 🌱 Currently exploring AI/ML concepts like Transformer-based Embeddings and Computer Vision APIs
