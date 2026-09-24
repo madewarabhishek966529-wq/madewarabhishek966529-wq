@@ -1,69 +1,38 @@
 <div align="center">
 
-<!-- HERO BANNER -->
+<img src="./assets/profile-banner.png" alt="Abhishek Madewar - Developer" width="100%"/>
 
-<img src="./assets/profile-banner.png" alt="Abhishek Madewar - Developer Banner" width="100%"/>
+<br/><br/>
 
-<br/>
-
-<a href="https://github.com/madewarabhishek966529-wq">
-  <img src="https://img.shields.io/github/followers/madewarabhishek966529-wq?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
-</a>
-&nbsp;
-<a href="https://github.com/madewarabhishek966529-wq">
-  <img src="https://komarev.com/ghpvc/?username=madewarabhishek966529-wq&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
-</a>
-&nbsp;
-<a href="mailto:madewarabhishek966529@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=Building+AI-Powered+Applications;Flutter+%7C+AI%2FML+%7C+Full+Stack;Turning+Ideas+Into+Real-World+Apps;Build+%E2%80%A2+Learn+%E2%80%A2+Ship+%E2%80%A2+Repeat" alt="Animated tagline"/>
 
 </div>
 
 <br/>
 
-<!-- ANIMATED INTRO -->
+## 👋 About Me
 
-<div align="center">
+I'm **Abhishek Madewar**, a Flutter developer and AI/ML enthusiast focused on building practical mobile and web applications.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=Flutter+Developer+%7C+AI%2FML+Enthusiast;Building+AI-Powered+Mobile+%26+Web+Apps;Turning+Ideas+Into+Real+Products;Learning+%E2%86%92+Building+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Animated Introduction"/>
-
-</div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-```text
-I build software at the intersection of mobile development, AI and the web.
-
-→ Flutter developer focused on cross-platform applications
-→ AI/ML enthusiast exploring practical AI integrations
-→ Full-stack developer working with React + Python backends
-→ Interested in computer vision, intelligent automation and developer tools
-→ Currently pursuing B.Tech in Computer Science Engineering
-```
-
-* 🎓 **B.Tech CSE** — Wainganga College of Engineering and Management, Nagpur
-* 💼 **Flutter Development Experience** — Dream Webies Pvt. Ltd.
-* 🤖 Building **AI-integrated mobile and web applications**
-* 🧠 Exploring **Transformer-based Embeddings & Computer Vision APIs**
+* 🎓 B.Tech CSE — Wainganga College of Engineering and Management
+* 💼 Flutter development experience at Dream Webies Pvt. Ltd.
+* 📱 Cross-platform application development with Flutter
+* 🤖 Building AI-integrated applications
+* 🌐 Full-stack development with React and Python backends
+* 🧠 Exploring Transformer Embeddings and Computer Vision
 * 📍 Nanded, Maharashtra, India
-* 📫 **Email:** `madewarabhishek966529@gmail.com`
 
 <br/>
-
----
 
 ## ⚡ What I Build
 
 <div align="center">
 
-|    📱 Mobile   |  🤖 AI Applications |      🌐 Web     |   🧩 Full Stack  |
-| :------------: | :-----------------: | :-------------: | :--------------: |
-|  Flutter Apps  | AI-powered Features |    React Apps   |  API Development |
-|     Android    |   Computer Vision   |  Responsive UI  | Database Systems |
-| Cross Platform |   Text Processing   | Modern Frontend | Backend Services |
+| 📱 Mobile Apps | 🤖 AI Applications |  🌐 Web Apps  |  🧩 Full Stack  |
+| :------------: | :----------------: | :-----------: | :-------------: |
+|     Flutter    |   AI Integration   |     React     |    REST APIs    |
+|     Android    |   Computer Vision  | Responsive UI | Backend Systems |
+| Cross Platform |     Automation     |   Modern UI   |    Databases    |
 
 </div>
 
@@ -71,37 +40,37 @@ I build software at the intersection of mobile development, AI and the web.
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,dart,c,cpp" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </p>
 
-### 📱 Mobile Development
+### Mobile
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
 </p>
 
-### 🗄️ Databases & Backend Services
+### Databases & Services
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" />
 </p>
 
-### ☁️ Tools & Cloud
+### Tools & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode,figma" />
@@ -115,40 +84,36 @@ I build software at the intersection of mobile development, AI and the web.
 
 ### 🏥 MediConnect
 
-> Healthcare appointment and location-based assistance application.
+Healthcare appointment and location-based assistance application.
 
-**Built with:** Flutter · Supabase/Firebase · REST APIs · Location Services
+**Flutter · Supabase/Firebase · REST APIs · Location Services**
 
-* 📅 Doctor appointment booking
-* 📞 Call support based on availability
-* 📍 Nearby hospital recommendations
-* 🔎 Location-aware healthcare discovery
-
----
+* Doctor appointment booking
+* Call support based on availability
+* Nearby hospital discovery
+* Location-based recommendations
 
 ### 📚 Study With AI
 
-> An AI-powered learning assistant designed to transform study material into interactive practice.
+AI-powered learning application that transforms study material into interactive practice.
 
-**Built with:** Flutter · Groq/OpenAI · Riverpod · Text Processing
+**Flutter · Groq/OpenAI · Riverpod · Text Processing**
 
-* 📄 Converts PDFs and text into study material
-* 🧠 Generates flashcards
-* ❓ Generates MCQs and quizzes
-* 📊 Automatic practice-test evaluation
-
----
+* PDF/text processing
+* AI-generated flashcards
+* MCQ and quiz generation
+* Automatic test evaluation
 
 ### 🌱 Agro AI
 
-> Computer-vision based plant disease detection application.
+Computer-vision based plant disease detection application.
 
-**Built with:** Flutter · Computer Vision APIs · Supabase · Geolocation APIs
+**Flutter · Computer Vision APIs · Supabase · Geolocation**
 
-* 📸 Plant disease detection from images
-* 🌿 Disease identification
-* 💡 Treatment suggestions
-* 📍 Nearby store recommendations
+* Plant disease detection
+* Image-based analysis
+* Treatment suggestions
+* Nearby store recommendations
 
 <br/>
 
@@ -158,53 +123,9 @@ I build software at the intersection of mobile development, AI and the web.
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   AI / ML                                           │
-│   ├── Transformer Embeddings                        │
-│   ├── Computer Vision                               │
-│   ├── AI Application Integration                    │
-│   └── Intelligent Automation                        │
-│                                                     │
-│   DEVELOPMENT                                       │
-│   ├── Advanced Flutter                              │
-│   ├── Full-Stack Architecture                       │
-│   ├── API Design                                    │
-│   └── Cloud & Deployment                            │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=madewarabhishek966529-wq&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madewarabhishek966529-wq&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=madewarabhishek966529-wq&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=madewarabhishek966529-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+`AI/ML`   `Computer Vision`   `Transformer Embeddings`
+`Flutter`   `Full Stack Development`   `Cloud`
+`Automation`   `API Development`   `System Design`
 
 </div>
 
@@ -212,7 +133,41 @@ I build software at the intersection of mobile development, AI and the web.
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=madewarabhishek966529-wq&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madewarabhishek966529-wq&layout=compact&hide_border=true&theme=tokyonight"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=madewarabhishek966529-wq&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=madewarabhishek966529-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -224,14 +179,7 @@ I build software at the intersection of mobile development, AI and the web.
 
 ---
 
-## 🎓 Certifications
-
-* 📜 **Industrial Training Completion Certificate** — Mountrech Solutions Pvt. Ltd.
-* 🏅 **State Level Project Competition** — Participation Certificate
-
-<br/>
-
-## 💡 Developer Philosophy
+## 💭 Developer Philosophy
 
 <div align="center">
 
@@ -239,13 +187,11 @@ I build software at the intersection of mobile development, AI and the web.
 
 <br/>
 
-> **"Ideas become valuable when you build them."**
+> **Turning ideas into real-world software.**
 
 <br/>
 
-**Code with purpose.
-Build with curiosity.
-Learn continuously.**
+`Curiosity → Code → Experiment → Improve`
 
 </div>
 
@@ -261,9 +207,13 @@ Learn continuously.**
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+ 
+
 <a href="https://www.linkedin.com/in/abhishek-madewar-352aab265">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+ 
 
 <a href="mailto:madewarabhishek966529@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -275,7 +225,7 @@ Learn continuously.**
 
 <div align="center">
 
-### 🚀 Keep Learning. Keep Building. Keep Shipping.
+### 🚀 Build. Learn. Ship. Repeat.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer"/>
 
