@@ -1,118 +1,282 @@
-<h1 align="center">Hi 👋, I'm Abhishek Madewar</h1>
-<h3 align="center">Flutter Developer | Wainganga College of Engineering and Management | AI/ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Flutter+%26+Cross-Platform+Mobile+Developer;Building+AI-Powered+Applications;Full+Stack+Developer+(React+%2B+FastAPI%2FDjango);Turning+Ideas+Into+Real-World+Apps" alt="Typing SVG" />
-</p>
+<!-- HERO BANNER -->
 
-## About Me
+<img src="./assets/profile-banner.png" alt="Abhishek Madewar - Developer Banner" width="100%"/>
 
-- 🎓 Diploma in Computer Engineering at Gramin Technical & Management Campus (2022 – 2025)
-- 📚 Pursuing B.Tech CSE at Wainganga College of Engineering and Management, Nagpur (2025 – 2028)
-- 💼 Gained hands-on Flutter development experience at Dream Webies Pvt. Ltd.
-- 🤖 Passionate about building AI-integrated mobile and web applications
-- 🌱 Currently exploring AI/ML concepts like Transformer-based Embeddings and Computer Vision APIs
-- 📍 Based in Nanded, Maharashtra, India
-- 📫 Reach me at **madewarabhishek966529@gmail.com**
+<br/>
 
-## Tech Stack
+<a href="https://github.com/madewarabhishek966529-wq">
+  <img src="https://img.shields.io/github/followers/madewarabhishek966529-wq?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
+</a>
+&nbsp;
+<a href="https://github.com/madewarabhishek966529-wq">
+  <img src="https://komarev.com/ghpvc/?username=madewarabhishek966529-wq&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+</a>
+&nbsp;
+<a href="mailto:madewarabhishek966529@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-**Languages**
+</div>
+
+<br/>
+
+<!-- ANIMATED INTRO -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=Flutter+Developer+%7C+AI%2FML+Enthusiast;Building+AI-Powered+Mobile+%26+Web+Apps;Turning+Ideas+Into+Real+Products;Learning+%E2%86%92+Building+%E2%86%92+Shipping+%E2%86%92+Improving" alt="Animated Introduction"/>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+```text
+I build software at the intersection of mobile development, AI and the web.
+
+→ Flutter developer focused on cross-platform applications
+→ AI/ML enthusiast exploring practical AI integrations
+→ Full-stack developer working with React + Python backends
+→ Interested in computer vision, intelligent automation and developer tools
+→ Currently pursuing B.Tech in Computer Science Engineering
+```
+
+* 🎓 **B.Tech CSE** — Wainganga College of Engineering and Management, Nagpur
+* 💼 **Flutter Development Experience** — Dream Webies Pvt. Ltd.
+* 🤖 Building **AI-integrated mobile and web applications**
+* 🧠 Exploring **Transformer-based Embeddings & Computer Vision APIs**
+* 📍 Nanded, Maharashtra, India
+* 📫 **Email:** `madewarabhishek966529@gmail.com`
+
+<br/>
+
+---
+
+## ⚡ What I Build
+
+<div align="center">
+
+|    📱 Mobile   |  🤖 AI Applications |      🌐 Web     |   🧩 Full Stack  |
+| :------------: | :-----------------: | :-------------: | :--------------: |
+|  Flutter Apps  | AI-powered Features |    React Apps   |  API Development |
+|     Android    |   Computer Vision   |  Responsive UI  | Database Systems |
+| Cross Platform |   Text Processing   | Modern Frontend | Backend Services |
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,dart,c,cpp" />
 </p>
 
-**Frontend**
+### 🎨 Frontend
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
 </p>
 
-**Mobile**
+### 📱 Mobile Development
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </p>
 
-**Backend**
+### ⚙️ Backend
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
 </p>
 
-**Databases & BaaS**
+### 🗄️ Databases & Backend Services
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase,supabase" />
 </p>
 
-**Cloud & Tools**
+### ☁️ Tools & Cloud
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode,figma" />
 </p>
 
-## Featured Projects
+<br/>
 
-### 🏥 Mediconnect
-- Tech: Flutter, Supabase/Firebase, REST APIs, Location Services
-- Doctor appointment booking app with call support based on availability
-- Nearby hospital recommendations using location services
+---
+
+## 🚀 Featured Projects
+
+### 🏥 MediConnect
+
+> Healthcare appointment and location-based assistance application.
+
+**Built with:** Flutter · Supabase/Firebase · REST APIs · Location Services
+
+* 📅 Doctor appointment booking
+* 📞 Call support based on availability
+* 📍 Nearby hospital recommendations
+* 🔎 Location-aware healthcare discovery
+
+---
 
 ### 📚 Study With AI
-- Tech: Flutter, Groq/OpenAI, Text Processing, Riverpod
-- Converts PDF/text into flashcards, MCQs, and quizzes
-- Built-in auto-evaluation system for practice tests
 
-### 🌱 Agro AI (Plant Disease Detection)
-- Tech: Flutter, Computer Vision API, Supabase, Geolocation APIs
-- Detects plant diseases from images and suggests treatments
-- Integrated nearby store recommendations for required medicines
+> An AI-powered learning assistant designed to transform study material into interactive practice.
 
-## GitHub Stats
+**Built with:** Flutter · Groq/OpenAI · Riverpod · Text Processing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madewarabhishek966529-wq&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+* 📄 Converts PDFs and text into study material
+* 🧠 Generates flashcards
+* ❓ Generates MCQs and quizzes
+* 📊 Automatic practice-test evaluation
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madewarabhishek966529-wq&theme=radical" alt="GitHub Streak" />
-</p>
+---
 
-## GitHub Trophies
+### 🌱 Agro AI
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madewarabhishek966529-wq&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+> Computer-vision based plant disease detection application.
 
-## Certifications
+**Built with:** Flutter · Computer Vision APIs · Supabase · Geolocation APIs
 
-- Completion Certificate of Industrial Training — Mountrech Solutions Pvt. Ltd.
-- Participation Certificate — State Level Project Competition
+* 📸 Plant disease detection from images
+* 🌿 Disease identification
+* 💡 Treatment suggestions
+* 📍 Nearby store recommendations
 
-## Achievements
+<br/>
 
-- Hands-on industry experience in Flutter development at Dream Webies Pvt. Ltd.
-- Built and shipped multiple AI-integrated mobile applications across healthcare, education, and agriculture domains
+---
 
-## Connect with Me
+## 🧠 Currently Exploring
 
-- 💻 GitHub: [github.com/madewarabhishek966529-wq](https://github.com/madewarabhishek966529-wq)
-- 💼 LinkedIn: www.linkedin.com/in/abhishek-madewar-352aab265
-- 📧 Email: madewarabhishek966529@gmail.com
+<div align="center">
 
-<p align="center"><b>Keep Learning, Keep Building, Keep Growing 🚀</b></p>
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   AI / ML                                           │
+│   ├── Transformer Embeddings                        │
+│   ├── Computer Vision                               │
+│   ├── AI Application Integration                    │
+│   └── Intelligent Automation                        │
+│                                                     │
+│   DEVELOPMENT                                       │
+│   ├── Advanced Flutter                              │
+│   ├── Full-Stack Architecture                       │
+│   ├── API Design                                    │
+│   └── Cloud & Deployment                            │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=madewarabhishek966529-wq&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madewarabhishek966529-wq&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=madewarabhishek966529-wq&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=madewarabhishek966529-wq&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madewarabhishek966529-wq&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🎓 Certifications
+
+* 📜 **Industrial Training Completion Certificate** — Mountrech Solutions Pvt. Ltd.
+* 🏅 **State Level Project Competition** — Participation Certificate
+
+<br/>
+
+## 💡 Developer Philosophy
+
+<div align="center">
+
+### `BUILD → BREAK → DEBUG → LEARN → SHIP → REPEAT`
+
+<br/>
+
+> **"Ideas become valuable when you build them."**
+
+<br/>
+
+**Code with purpose.
+Build with curiosity.
+Learn continuously.**
+
+</div>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/madewarabhishek966529-wq">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhishek-madewar-352aab265">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:madewarabhishek966529@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Keep Learning. Keep Building. Keep Shipping.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=120&section=footer"/>
+
+</div>
