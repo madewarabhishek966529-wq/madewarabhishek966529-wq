@@ -46,8 +46,6 @@ I'm **Abhishek Madewar**, a Flutter developer and AI/ML enthusiast focused on bu
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,js,dart,c,cpp"/>
@@ -71,8 +69,6 @@ I'm **Abhishek Madewar**, a Flutter developer and AI/ML enthusiast focused on bu
 **Tools & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,git,github,docker,vscode,figma"/>
-
-</div>
 
 <br/>
 
@@ -130,19 +126,23 @@ Computer-vision based plant disease detection application.
 
 ## 🧠 Currently Exploring
 
-<div align="center">
-
 ![AI/ML](https://img.shields.io/badge/AI%2FML-7C3AED?style=flat-square)
+<br/>
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square)
+<br/>
 ![Transformer Embeddings](https://img.shields.io/badge/Transformer_Embeddings-7C3AED?style=flat-square)
+<br/>
 ![Flutter](https://img.shields.io/badge/Flutter-2563EB?style=flat-square)
+<br/>
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Development-2563EB?style=flat-square)
+<br/>
 ![Cloud](https://img.shields.io/badge/Cloud-2563EB?style=flat-square)
+<br/>
 ![Automation](https://img.shields.io/badge/Automation-06B6D4?style=flat-square)
+<br/>
 ![API Development](https://img.shields.io/badge/API_Development-06B6D4?style=flat-square)
+<br/>
 ![System Design](https://img.shields.io/badge/System_Design-06B6D4?style=flat-square)
-
-</div>
 
 <br/>
 
