@@ -181,7 +181,7 @@ Computer-vision based plant disease detection application.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madewarabhishek966529-wq&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://ghchart.rshah.org/7C3AED/madewarabhishek966529-wq" alt="Contribution Graph" width="95%"/>
 
 </div>
 
